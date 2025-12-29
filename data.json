@@ -944,6 +944,69 @@
       "gesetzestext": "(1) In den örtlichen Fahrerlaubnisregistern und im Zentralen Fahrerlaubnisregister werden gespeichert\n1.\nFamiliennamen, Geburtsnamen, sonstige frühere Namen, Vornamen, Ordens- oder Künstlername, Doktorgrad, Geschlecht, Tag und Ort der Geburt,\n2.\nnach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 2 Daten über Erteilung und Registrierung (einschließlich des Umtausches oder der Registrierung einer deutschen Fahrerlaubnis im Ausland), Bestand, Art, Umfang, Gültigkeitsdauer, Verlängerung und Änderung der Fahrerlaubnis, Datum des Beginns und des Ablaufs der Probezeit, Nebenbestimmungen zur Fahrerlaubnis, über Führerscheine und deren Geltung einschließlich der Ausschreibung zur Sachfahndung, sonstige Berechtigungen, ein Kraftfahrzeug zu führen, sowie Hinweise auf Eintragungen im Fahreignungsregister, die die Berechtigung zum Führen von Kraftfahrzeugen berühren.\n(2) In den örtlichen Fahrerlaubnisregistern dürfen außerdem gespeichert werden\n1.\ndie Anschrift und die E-Mail-Adresse, soweit vom Antragsteller angegeben, der betroffenen Person, Staatsangehörigkeit, Art des Ausweisdokuments sowie\n2.\nnach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 2 Daten über\na)\nVersagung, Entziehung, Widerruf und Rücknahme der Fahrerlaubnis, Verzicht auf die Fahrerlaubnis, isolierte Sperren, Fahrverbote sowie die Beschlagnahme, Sicherstellung und Verwahrung von Führerscheinen sowie Maßnahmen nach § 2a Abs. 2 und § 4 Absatz 5,\nb)\nVerbote oder Beschränkungen, ein Fahrzeug zu führen.\n(3) Im Zentralen Fahrerlaubnisregister dürfen zusätzlich zu Absatz 1 der Grund des Erlöschens der Fahrerlaubnis oder einer Fahrerlaubnisklasse, die Dauer der Probezeit einschließlich der Restdauer nach vorzeitiger Beendigung der Probezeit, Beginn und Ende einer Hemmung der Probezeit und die Behörde, die die Unterlagen im Zusammenhang mit dem Erteilen, dem Entziehen oder dem Erlöschen einer Fahrerlaubnis oder Fahrerlaubnisklasse (Fahrerlaubnisakte) führt, gespeichert werden.\n(4) Sobald ein örtliches Fahrerlaubnisregister nach Maßgabe des § 65 Absatz 2 Satz 1 nicht mehr geführt werden darf, gelten die Absätze 1 und 2 im Hinblick auf die örtlichen Fahrerlaubnisregister nur noch für die in § 65 Absatz 2a bezeichneten Daten.",
       "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767021172627",
+      "gesetz": "StVG",
+      "nummer": "§ 51",
+      "titel": "§ 51 Mitteilung an das Zentrale Fahrerlaubnisregister",
+      "gesetzestext": "Die Fahrerlaubnisbehörden teilen dem Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrerlaubnisregister unverzüglich die auf Grund des § 50 Abs. 1 zu speichernden oder zu einer Änderung oder Löschung einer Eintragung führenden Daten mit.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021183817",
+      "gesetz": "StVG",
+      "nummer": "§ 52",
+      "titel": "§ 52 Übermittlung",
+      "gesetzestext": "(1) Die in den Fahrerlaubnisregistern gespeicherten Daten dürfen an die Stellen, die\n1.\nfür die Verfolgung von Straftaten, zur Vollstreckung oder zum Vollzug von Strafen,\n2.\nfür die Verfolgung von Ordnungswidrigkeiten und die Vollstreckung von Bußgeldbescheiden und ihren Nebenfolgen nach diesem Gesetz oder\n3.\nfür Verwaltungsmaßnahmen auf Grund dieses Gesetzes oder der auf ihm beruhenden Rechtsvorschriften, soweit es um Fahrerlaubnisse, Führerscheine oder sonstige Berechtigungen, ein Fahrzeug zu führen, geht,\nzuständig sind, übermittelt werden, soweit dies zur Erfüllung der diesen Stellen obliegenden Aufgaben zu den in § 49 genannten Zwecken jeweils erforderlich ist.\n(2) Die in den Fahrerlaubnisregistern gespeicherten Daten dürfen zu den in § 49 Abs. 1 und 2 Nr. 2 genannten Zwecken an die für Verkehrs- und Grenzkontrollen zuständigen Stellen sowie an die für Straßenkontrollen zuständigen Stellen übermittelt werden, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.\n(3) Das Kraftfahrt-Bundesamt hat entsprechend § 35 Abs. 6 Satz 1 und 2 Aufzeichnungen über die Übermittlungen nach den Absätzen 1 und 2 zu führen.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021196851",
+      "gesetz": "StVG",
+      "nummer": "§ 53",
+      "titel": "§ 53 Direkteinstellung und Abruf im automatisierten Verfahren",
+      "gesetzestext": "(1) Den Stellen, denen die Aufgaben nach § 52 obliegen, dürfen die hierfür jeweils erforderlichen Daten aus dem Zentralen Fahrerlaubnisregister und den örtlichen Fahrerlaubnisregistern zu den in § 49 genannten Zwecken durch Abruf im automatisierten Verfahren übermittelt werden.\n(1a) Die Fahrerlaubnisbehörden dürfen die Daten, die sie nach § 51 dem Kraftfahrt-Bundesamt mitzuteilen haben, im Wege der Datenfernübertragung durch Direkteinstellung übermitteln.\n(2) Die Einrichtung von Anlagen zur Direkteinstellung oder zum Abruf im automatisierten Verfahren ist nur zulässig, wenn nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 4 gewährleistet ist, dass\n1.\ndie erforderlichen technischen und organisatorischen Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zur Sicherstellung des Datenschutzes und der Datensicherheit getroffen werden und\n2.\ndie Zulässigkeit der Direkteinstellung oder der Abrufe nach Maßgabe des Absatzes 3 kontrolliert werden kann.\n(3) Das Kraftfahrt-Bundesamt oder die Fahrerlaubnisbehörde als übermittelnde Stellen haben über die Direkteinstellungen und die Abrufe Aufzeichnungen zu fertigen, die die bei der Durchführung der Direkteinstellungen oder der Abrufe verwendeten Daten, den Tag und die Uhrzeit der Direkteinstellungen oder der Abrufe, die Kennung der einstellenden oder abrufenden Dienststelle und die eingestellten oder abgerufenen Daten enthalten müssen. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden, es sei denn, es liegen Anhaltspunkte dafür vor, dass ohne ihre Verwendung die Verhinderung oder Verfolgung einer schwerwiegenden Straftat gegen Leib, Leben oder Freiheit einer Person aussichtslos oder wesentlich erschwert wäre. Die Protokolldaten sind durch geeignete Vorkehrungen gegen zweckfremde Verwendung und gegen sonstigen Missbrauch zu schützen und beim Abruf nach sechs Monaten und bei der Direkteinstellung mit Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.\n(4) Bei Direkteinstellungen in das und bei Abrufen aus dem Zentralen Fahrerlaubnisregister sind vom Kraftfahrt-Bundesamt weitere Aufzeichnungen zu fertigen, die sich auf den Anlass der Direkteinstellung oder des Abrufs erstrecken und die Feststellung der für die Direkteinstellung oder den Abruf verantwortlichen Person ermöglichen. Das Nähere wird durch Rechtsverordnung (§ 63 Nummer 4) bestimmt. Dies gilt entsprechend für Abrufe aus den örtlichen Fahrerlaubnisregistern.\n(5) Aus den örtlichen Fahrerlaubnisregistern ist die Übermittlung der Daten durch Einsichtnahme in das Register außerhalb der üblichen Dienstzeiten an die für den betreffenden Bezirk zuständige Polizeidienststelle zulässig, wenn\n1.\ndies im Rahmen der in § 49 Abs. 1 und 2 Nr. 2 genannten Zwecke für die Erfüllung der Polizei obliegenden Aufgaben erforderlich ist und\n2.\nohne die sofortige Einsichtnahme die Erfüllung dieser Aufgaben gefährdet wäre.\nDie Polizeidienststelle hat die Tatsache der Einsichtnahme, deren Datum und Anlass sowie den Namen des Einsichtnehmenden aufzuzeichnen; die Aufzeichnungen sind für die Dauer eines Jahres aufzubewahren und nach Ablauf des betreffenden Kalenderjahres zu vernichten.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021213510",
+      "gesetz": "StVG",
+      "nummer": "§ 54",
+      "titel": "§ 54 Automatisiertes Mitteilungs-, Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt",
+      "gesetzestext": "Die Übermittlung der Daten an das Zentrale Fahrerlaubnisregister und aus dem Zentralen Fahrerlaubnisregister nach den §§ 51, 52 und 55 darf nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 5 auch in einem automatisierten Mitteilungs-, Anfrage- und Auskunftsverfahren erfolgen. Für die Einrichtung und Durchführung des Verfahrens gilt § 30b Abs. 1 Satz 2, Abs. 2 und 3 entsprechend. Die Protokolldaten der Mitteilungen sind mit Vollendung des 110. Lebensjahres der betroffenen Person zu löschen.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021226519",
+      "gesetz": "StVG",
+      "nummer": "§ 55",
+      "titel": "§ 55 Übermittlung von Daten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes",
+      "gesetzestext": "(1) Die auf Grund des § 50 gespeicherten Daten dürfen von den Registerbehörden an die hierfür zuständigen Stellen anderer Staaten übermittelt werden, soweit dies\n1.\nfür Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs,\n2.\nzur Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder\n3.\nzur Verfolgung von Straftaten, die im Zusammenhang mit dem Straßenverkehr oder sonst mit Kraftfahrzeugen oder Anhängern oder Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,\nerforderlich ist.\n(2) Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt werden.\n(3) Die Übermittlung unterbleibt, wenn durch sie schutzwürdige Interessen der betroffenen Person beeinträchtigt würden, insbesondere wenn im Empfängerland ein angemessener Datenschutzstandard nicht gewährleistet ist.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021240131",
+      "gesetz": "StVG",
+      "nummer": "§ 56",
+      "titel": "§ 56 Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes",
+      "gesetzestext": "(1) Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnisregister für die in § 55 Abs. 1 genannten Maßnahmen an die hierfür zuständigen öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum die zu deren Aufgabenerfüllung erforderlichen Daten nach näherer Bestimmung durch Rechtsverordnung gemäß § 63 Nummer 6 übermittelt werden.\n(2) Der Abruf ist nur zulässig, wenn\n1.\ndiese Form der Datenübermittlung unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und\n2.\nder Empfängerstaat die Verordnung (EU) 2016/679 anwendet.\n§ 53 Abs. 2 und 3 sowie Abs. 4 wegen des Anlasses der Abrufe ist entsprechend anzuwenden.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767021254831",
+      "gesetz": "StVG",
+      "nummer": "§ 57",
+      "titel": "§ 57 Übermittlung an und Verwendung durch den Empfänger für wissenschaftliche, statistische und gesetzgeberische Zwecke",
+      "gesetzestext": "Für die Übermittlung und Verwendung der nach § 50 gespeicherten Daten für wissenschaftliche Zwecke gilt § 38, für statistische Zwecke § 38a und für gesetzgeberische Zwecke § 38b jeweils entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
     }
   ]
 }
