@@ -1,7 +1,7 @@
 # ⚖️ FL-StVG - Straßenverkehrsgesetz Editor
 
 **Fahrlehrer-Ausbildung FL-BE_07/25**  
-Verkehrsinstitut Schielein Nürnberg
+
 
 ---
 
