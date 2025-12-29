@@ -35,6 +35,24 @@
       "gesetzestext": "(1) Der Fahrzeugführer darf sich während der Fahrzeugführung mittels hoch- oder vollautomatisierter Fahrfunktionen gemäß § 1a vom Verkehrsgeschehen und der Fahrzeugsteuerung abwenden; dabei muss er derart wahrnehmungsbereit bleiben, dass er seiner Pflicht nach Absatz 2 jederzeit nachkommen kann.\n(2) Der Fahrzeugführer ist verpflichtet, die Fahrzeugsteuerung unverzüglich wieder zu übernehmen,\n1.\nwenn das hoch- oder vollautomatisierte System ihn dazu auffordert oder\n2.\nwenn er erkennt oder auf Grund offensichtlicher Umstände erkennen muss, dass die Voraussetzungen für eine bestimmungsgemäße Verwendung der hoch- oder vollautomatisierten Fahrfunktionen nicht mehr vorliegen.",
       "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1767018178530",
+      "gesetz": "StVG",
+      "nummer": "§ 1c ",
+      "titel": "§ 1c Evaluierung",
+      "gesetzestext": "Das Bundesministerium für Digitales und Verkehr wird die Anwendung der Regelungen in Artikel 1 des Gesetzes vom 16. Juni 2017 (BGBl. I S. 1648) nach Ablauf des Jahres 2019 auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767018226892",
+      "gesetz": "StVG",
+      "nummer": "§ 1d",
+      "titel": "§ 1d Kraftfahrzeuge mit autonomer Fahrfunktion in festgelegten Betriebsbereichen",
+      "gesetzestext": "(1) Ein Kraftfahrzeug mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist ein Kraftfahrzeug, das\n1.\ndie Fahraufgabe ohne eine fahrzeugführende Person selbstständig in einem festgelegten Betriebsbereich erfüllen kann und\n2.\nüber eine technische Ausrüstung gemäß § 1e Absatz 2 verfügt.\n(2) Ein festgelegter Betriebsbereich im Sinne dieses Gesetzes bezeichnet den örtlich und räumlich bestimmten öffentlichen Straßenraum, in dem ein Kraftfahrzeug mit autonomer Fahrfunktion bei Vorliegen der Voraussetzungen gemäß § 1e Absatz 1 betrieben werden darf.\n(3) Technische Aufsicht eines Kraftfahrzeugs mit autonomer Fahrfunktion im Sinne dieses Gesetzes ist diejenige natürliche Person, die dieses Kraftfahrzeug während des Betriebs gemäß § 1e Absatz 2 Nummer 8 deaktivieren und für dieses Kraftfahrzeug gemäß § 1e Absatz 2 Nummer 4 und Absatz 3 Fahrmanöver freigeben kann.\n(4) Risikominimaler Zustand im Sinne dieses Gesetzes ist ein Zustand, in dem sich das Kraftfahrzeug mit autonomer Fahrfunktion auf eigene Veranlassung oder auf Veranlassung der Technischen Aufsicht an einer möglichst sicheren Stelle in den Stillstand versetzt und die Warnblinkanlage aktiviert, um unter angemessener Beachtung der Verkehrssituation die größtmögliche Sicherheit für die Fahrzeuginsassen, andere Verkehrsteilnehmende und Dritte zu gewährleisten.",
+      "quelle": "https://www.gesetze-im-internet.de/stvg/BJNR004370909.html#BJNR004370909BJNG000101308",
+      "praxisbeispiele": []
     }
   ]
 }
